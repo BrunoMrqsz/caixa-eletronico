@@ -1,4 +1,5 @@
 # Executáveis compilados
 *.exe
 *.out
+caixa_eletronico
 cifra_fibonacci
