@@ -1,0 +1,4 @@
+# Executáveis compilados
+*.exe
+*.out
+cifra_fibonacci
