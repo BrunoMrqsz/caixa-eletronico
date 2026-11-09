@@ -3,14 +3,14 @@
 Projetos em C feitos para estudo de lógica de programação. O repositório reúne:
 
 - **Caixa eletrônico**: simula um saque e calcula quais notas devem ser entregues.
-- **Cifra com Fibonacci**: criptografa uma palavra usando uma cifra de César com deslocamento variável.
+
 
 ## Sumário
 
 - [Estrutura do repositório](#estrutura-do-repositório)
 - [Requisitos](#requisitos)
 - [Caixa eletrônico](#caixa-eletrônico-1)
-- [Cifra com Fibonacci](#cifra-com-fibonacci)
+
 
 ## Estrutura do repositório
 
@@ -18,7 +18,7 @@ Projetos em C feitos para estudo de lógica de programação. O repositório re�
 caixa-eletronico/
 ├── src/
 │   ├── caixa_eletronico.c   # simulador de saque com contagem de notas
-│   └── cifra_fibonacci.c    # criptografia de palavras com Fibonacci
+│  
 ├── .gitignore               # ignora executáveis compilados
 └── README.md
 ```
